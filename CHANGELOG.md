@@ -14,3 +14,4 @@
 
 - 迁入《同理心》（同理心的形式化建模：结构识别+位置映射+行为预测，锚点为营销问题≈甲方看市场问题），自 quanttide-profile-of-market-management 转入（原始来源 quanttide-context-of-meta-engineering），源侧不留副本
 - 仓库初始化：README、CHANGELOG 与许可
+- 新增 `xiaohongshu-comment-intercept.md`：新媒体营销渠道——小红书评论区截流（渠道定义、两个真人转化案例、提成与定价权配套、执行状态，信息已脱敏）
